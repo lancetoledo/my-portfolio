@@ -1,6 +1,31 @@
 [
   {
     "id": 1,
+    "name": "DigiArt",
+    "image": "/Autoholics.png",
+    "description": "LETS GOOOO",
+    "tags": ["react", "api", "css", "react native", "styled-components"],
+    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone",
+    "demo": "https://lancetoledo.github.io/Autoholics/"
+  },
+  {
+    "id": 1,
+    "name": "YouTube Clone",
+    "image": "https://imgur.com/O7kt2Lp.png",
+    "description": "A platform for web developers to showcase their projects",
+    "tags": ["react", "api", "css", "react native", "styled-components"],
+    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+  },
+  {
+    "id": 1,
+    "name": "YouTube Clone",
+    "image": "https://imgur.com/O7kt2Lp.png",
+    "description": "A platform for web developers to showcase their projects",
+    "tags": ["react", "api", "css", "react native", "styled-components"],
+    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+  },
+  {
+    "id": 1,
     "name": "YouTube Clone",
     "image": "https://imgur.com/O7kt2Lp.png",
     "description": "A platform for web developers to showcase their projects",
@@ -15,4 +40,5 @@
     "tags": ["react", "api", "css", "react native", "styled-components"],
     "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
   }
+  
 ]

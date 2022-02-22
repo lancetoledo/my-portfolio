@@ -8,37 +8,37 @@ const ContactCode = () => {
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
-        <a href="https://nitinranganath.me" target="_blank" rel="noopener">
-          nitinranganath.me
+        <a href="https://lancetoledo.github.io/" target="_blank" rel="noopener">
+        lancetoledo.github.io
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;email:{' '}
         <a
-          href="mailto:nazariy@cleverprogrammer.com"
+          href="mailto:lance@cleverprogrammer.com"
           target="_blank"
           rel="noopener"
         >
-          nazariy@cleverprogrammer.com
+          lance@cleverprogrammer.com
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;github:{' '}
         <a href="https://github.com/nazariy995" target="_blank" rel="noopener">
-          nazariy995
+          lancetoledo
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;linkedin:{' '}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="https://www.linkedin.com/in/lancetoledo/"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          lancetoledo
         </a>
         ;
       </p>
